@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    height: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    background-color: #B2BEB5;
+    height: 60%;
+    width: 300px;
+    border-radius: 18px;
+    text-align: center;
+    margin: 1%;
+}
+.button{
+    width: 100px;
+    height: 40px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 18px;   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #119eaa;
+    border: 0cap;
+}
+.feild{
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    font-size: 15px;
+}
